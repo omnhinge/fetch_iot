@@ -25,3 +25,8 @@ python fetch_iot/get_pdf_notes.py --1
 ```bash
 python fetch_iot/get_pdf_notes.py --2
 ```
+
+### For Chapter 3
+```bash
+python fetch_iot/get_pdf_notes.py --c 3
+```
